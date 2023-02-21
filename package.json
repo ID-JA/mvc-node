@@ -1,0 +1,24 @@
+{
+  "name": "mvc-node",
+  "version": "0.0.0",
+  "description": "MVC-Node is a lightweight Node.js framework for building MVC applications and APIs. It is designed to provide a simple, yet powerful architecture for building web applications that are easy to maintain and scale.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ID-JA/mvc-node.git"
+  },
+  "keywords": [],
+  "author": "ID-JA",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ID-JA/mvc-node/issues"
+  },
+  "homepage": "https://github.com/ID-JA/mvc-node#readme",
+  "devDependencies": {
+    "prettier": "^2.8.4",
+    "typescript": "^4.9.5"
+  }
+}
